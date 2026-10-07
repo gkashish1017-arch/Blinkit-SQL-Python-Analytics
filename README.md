@@ -41,7 +41,7 @@ The objective of this project is to analyze Blinkit sales data and answer key bu
 Blinkit-SQL-Python-Analytics/
 │
 ├── data/
-│   └── blinkit.csv
+│   └── Blinkit.csv
 │
 ├── sql/
 │   └── blinkit_sales_analysis.sql
